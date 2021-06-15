@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Deepanshu-Rohilla/count.svg" />
+  <img src="https://profile-counter.glitch.me/sun-3/count.svg" />
 </p>
