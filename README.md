@@ -19,12 +19,17 @@ Here are some ideas to get you started:
 </div>
 
 
+### 🎧 Spotify Playing 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/m2zw1izlrc4jprh52zmbmt90f)
+
+
 ### 📫 Connect with me:
 <p align="center">
 	<a href="https://www.linkedin.com/in/sunny-ansal-271251188/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/sunny_199_9"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sunnyansal1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sun-3/count.svg" />
