@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/sunny_199_9"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sunnyansal1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+<img src='https://github-readme-stats.vercel.app/api?username=j1t3sh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
 
 <p align="center"> 
   Visitor count<br>
